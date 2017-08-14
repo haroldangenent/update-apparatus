@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "dotenv": "^4.0.0",
+    "js-crawler": "^0.3.19",
+    "shelljs": "^0.7.8"
+  }
+}
