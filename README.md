@@ -1,4 +1,4 @@
-[![UPDATE APPARATUS](media/header.png)](https://github.com/haroldangenent/update-apparatus)
+# [![UPDATE APPARATUS](media/header.png)](https://github.com/haroldangenent/update-apparatus)
 
 > UPDATE APPARATUS 🤖
 
