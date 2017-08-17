@@ -7,4 +7,6 @@
 > 4. Re-crawl website
 > 5. Diff the output
 
+![Update sequence.](media/preview.gif)
+
 > Please use me.
