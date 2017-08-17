@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "repository": "haroldangenent/update-apparatus",
   "license": "MIT",
+  "bin": "./index.js",
   "dependencies": {
     "chalk": "^2.1.0",
     "dotenv": "^4.0.0",
