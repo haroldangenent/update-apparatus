@@ -1,3 +1,7 @@
+[Installation](#installation) | [Usage](#usage)
+
+---
+
 # [![UPDATE APPARATUS](media/header.png)](https://github.com/haroldangenent/update-apparatus)
 
 > Hello! My name is UPDATE APPARATUS 🤖.
@@ -13,3 +17,12 @@ This is my update sequence:
 ![Update sequence.](media/preview.gif)
 
 > Please use me.
+
+## Installation
+
+```
+npm install update-apparatus -g
+```
+
+## Usage
+Run `update-apparatus` in the root of your project.
