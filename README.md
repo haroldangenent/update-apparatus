@@ -1,7 +1,3 @@
-[Installation](#installation) | [Usage](#usage)
-
----
-
 # [![UPDATE APPARATUS](media/header.png)](https://github.com/haroldangenent/update-apparatus)
 
 > Hello! My name is UPDATE APPARATUS 🤖.
