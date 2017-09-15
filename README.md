@@ -1,5 +1,7 @@
 # [![UPDATE APPARATUS](media/header.png)](https://github.com/haroldangenent/update-apparatus)
 
+Running and testing WordPress updates is no fun. `UPDATE APPARATUS 🤖` will try and help you with this chore.
+
 > Hello! My name is UPDATE APPARATUS 🤖.
 
 This is my update sequence:
