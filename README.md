@@ -2,9 +2,7 @@
 
 Running and testing WordPress updates is no fun. `UPDATE APPARATUS 🤖` will try and help you with this chore.
 
-> Hello! My name is UPDATE APPARATUS 🤖.
-
-This is my update sequence:
+This is it's update sequence:
 
 1. Validate dependencies
 2. Crawl website
@@ -13,8 +11,6 @@ This is my update sequence:
 5. Diff the output
 
 ![Update sequence.](media/preview.gif)
-
-> Please use me.
 
 ## Installation
 
