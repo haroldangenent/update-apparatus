@@ -2,6 +2,8 @@
 
 Running and testing WordPress updates is no fun. `UPDATE APPARATUS 🤖` will try and help you with this chore.
 
+[![npm](https://badge.fury.io/js/update-apparatus.svg)](https://www.npmjs.com/package/update-apparatus)
+
 ## Update sequence
 This is it's update sequence:
 
