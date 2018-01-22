@@ -8,6 +8,7 @@
   "dependencies": {
     "chalk": "^2.1.0",
     "dotenv": "^4.0.0",
+    "inquirer": "^5.0.1",
     "js-crawler": "^0.3.19",
     "readline-sync": "^1.4.7",
     "shelljs": "^0.7.8"
