@@ -11,6 +11,8 @@
     "inquirer": "^5.0.1",
     "js-crawler": "^0.3.19",
     "readline-sync": "^1.4.7",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
     "shelljs": "^0.7.8"
   }
 }
