@@ -45,12 +45,12 @@ You can configure your preferences per project through an `.apparatusrc` file th
 | `wpSkip` | Dependencies to skip when using `wp-cli` (used for [`wp plugin update --exclude`](https://developer.wordpress.org/cli/commands/plugin/update/))
 
 ## Batch
-You can also run `UPDATE APPARATUS 🤖` to batch-process multiple projects. It will do some assumptions though. Use `update-apparatus --batch` in your projects root to use this. Workflow:
+You can also run `UPDATE APPARATUS 🤖` to batch-update multiple projects. It will make some assumptions though. Use `update-apparatus --batch` in your projects root to use this. Workflow:
 
 1. Assume projects are in subdirectories from the place you ran the command
 2. You can select all projects you would like to update
 3. Update version constraints to latest version for Composer packages and ask you about custom repositories
-4. Run `UPDATE APPARATUS 🤖` for each project
+4. Run `UPDATE APPARATUS 🤖` for each project, without crawling the website
 5. Commit changes in a branch
-6. Create a pull request per project (with attached diff of HTML output)
+6. Create a pull request per project
 7. Show links to PR's for you to review
